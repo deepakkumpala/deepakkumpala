@@ -15,7 +15,10 @@ MCSA: Cloud Platform Certified - Microsoft® Certified Professional - Azure Clou
 
 
 # 💻 Technology:
- ![CSharp](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge) 
+ ![NET](https://img.shields.io/badge/NET-512BD4?logo=.net&logoColor=white&style=for-the-badge) 
+ ![CSharp](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge) 
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=MICROSOFTSQLSERVER&logoColor=white&style=for-the-badge)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqllite&logoColor=white&style=for-the-badge)
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
