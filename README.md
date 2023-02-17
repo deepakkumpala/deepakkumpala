@@ -18,6 +18,7 @@ MCSA: Cloud Platform Certified - Microsoft® Certified Professional - Azure Clou
  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqllite&logoColor=white&style=for-the-badge)
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
  ![Terraform](https://img.shields.io/badge/terraform-%7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
