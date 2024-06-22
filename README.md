@@ -35,7 +35,7 @@ MCSA: Cloud Platform Certified - Microsoft® Certified Professional - Azure Clou
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
  ![JSFiddle](https://img.shields.io/badge/JSFiddle-239120?logo=jsfiddle&logoColor=white&style=for-the-badge) 
  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-
+ ![ArchiMate](https://img.shields.io/badge/Archimate-239120?logo=archimate&logoColor=white&style=for-the-badge)
 
 
 
